@@ -63,7 +63,6 @@ for line in input_file:
 
 input_file.close()
 
-output = "\n"
 output += "Windows Registry Editor Version 5.00\n"
 output += "\n"
 output += "[HKEY_CURRENT_USER\\Software\\SimonTatham\\PuTTY\\Sessions\\Default%20Settings]\n"
